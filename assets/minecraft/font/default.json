@@ -1,0 +1,158 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:emoji/GG.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["㐢"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emoji/peposleep.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["㐣"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emoji/revo.png",
+            "ascent": 25,
+            "height": 25,
+            "chars": ["㒀"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emoji/flushed.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["㒙"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emoji/kekw.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["㓿"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emoji/pray.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["㓾"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emoji/estrela_dourada.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["✯"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emoji/tops/eventos.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["⭐"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emoji/triste.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["㓼"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emoji/feliz.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["㓻"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emoji/f.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["㓺"]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:emoji/clown.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["㓸"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emoji/sunglasses.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["㓷"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emoji/emerald.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["㓶"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emoji/tops/cash.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["⛃"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emoji/tops/online.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["☕"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emoji/tops/mcmmo.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["⚒"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emoji/tops/destemido.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["☬"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emoji/tops/votos.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["۞"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emoji/tops/mito.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["🗡"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emoji/tops/caveira.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["☠"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emoji/revo.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["㒁"]
+        }
+    ]
+}
