@@ -153,6 +153,55 @@
             "ascent": 9,
             "height": 9,
             "chars": ["㒁"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emoji/heart_eyes.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["ਉ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emoji/sob.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["ਙ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emoji/angry.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["ਦ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emoji/pleading_face.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["ਧ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emoji/like.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["ਯ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emoji/rofl.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["ਹ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emoji/sunglasso_bravo.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["ਸ"]
         }
     ]
 }
