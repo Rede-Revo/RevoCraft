@@ -16,7 +16,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:emoji/revo.png",
+            "file": "minecraft:emoji/paineis/logorevo.png",
             "ascent": 25,
             "height": 25,
             "chars": ["㒀"]
@@ -195,6 +195,13 @@
             "ascent": 9,
             "height": 9,
             "chars": ["ਹ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emoji/paineis/logorevo.png",
+            "ascent": 65,
+            "height": 65,
+            "chars": ["ɤ"]
         },
         {
             "type": "bitmap",
