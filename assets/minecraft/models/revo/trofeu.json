@@ -1,11 +1,11 @@
 {
-	"credit": "Feito por thiagogebrim",
+	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"2": "3d/trofeu/R",
+		"RevoLogo": "3d/trofeu/R",
+		"particle": "3d/trofeu/dourado",
 		"gold_block": "3d/trofeu/dourado",
-		"wool_colored_brown": "3d/trofeu/marrom",
-		"particle": "3d/trofeu/R"
+		"wool_colored_brown": "3d/trofeu/marrom"
 	},
 	"elements": [
 		{
@@ -560,7 +560,7 @@
 			"to": [12, 16, 9],
 			"faces": {
 				"north": {"uv": [10, 11, 11, 14], "texture": "#gold_block"},
-				"east": {"uv": [1.49533, 1.19626, 14.80373, 14.80376], "texture": "#2"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#RevoLogo"},
 				"south": {"uv": [9, 12, 10, 15], "texture": "#gold_block"},
 				"west": {"uv": [12, 11, 15, 14], "texture": "#gold_block"},
 				"up": {"uv": [9, 12, 12, 13], "rotation": 270, "texture": "#gold_block"},
@@ -574,7 +574,7 @@
 				"north": {"uv": [10, 11, 11, 14], "texture": "#gold_block"},
 				"east": {"uv": [11, 12, 14, 15], "texture": "#gold_block"},
 				"south": {"uv": [9, 12, 10, 15], "texture": "#gold_block"},
-				"west": {"uv": [1.4953, 1.19626, 14.80371, 14.80374], "texture": "#2"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#RevoLogo"},
 				"up": {"uv": [7, 7, 10, 8], "rotation": 270, "texture": "#gold_block"},
 				"down": {"uv": [11, 9, 14, 10], "rotation": 270, "texture": "#gold_block"}
 			}
