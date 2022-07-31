@@ -2,213 +2,227 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "minecraft:emoji/GG.png",
+            "file": "minecraft:revo/emoji/GG.png",
             "ascent": 9,
             "height": 9,
             "chars": ["㐢"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:emoji/peposleep.png",
+            "file": "minecraft:revo/emoji/peposleep.png",
             "ascent": 9,
             "height": 9,
             "chars": ["㐣"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:emoji/paineis/logorevo.png",
+            "file": "minecraft:revo/emoji/paineis/logorevo.png",
             "ascent": 25,
             "height": 25,
             "chars": ["㒀"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:emoji/flushed.png",
+            "file": "minecraft:revo/emoji/flushed.png",
             "ascent": 9,
             "height": 9,
             "chars": ["㒙"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:emoji/kekw.png",
+            "file": "minecraft:revo/emoji/kekw.png",
             "ascent": 9,
             "height": 9,
             "chars": ["㓿"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:emoji/pray.png",
+            "file": "minecraft:revo/emoji/pray.png",
             "ascent": 9,
             "height": 9,
             "chars": ["㓾"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:emoji/estrela_dourada.png",
+            "file": "minecraft:revo/emoji/estrela_dourada.png",
             "ascent": 9,
             "height": 9,
             "chars": ["✯"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:emoji/tops/eventos.png",
+            "file": "minecraft:revo/emoji/tops/eventos.png",
             "ascent": 7,
             "height": 7,
             "chars": ["⭐"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:emoji/triste.png",
+            "file": "minecraft:revo/emoji/triste.png",
             "ascent": 9,
             "height": 9,
             "chars": ["㓼"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:emoji/feliz.png",
+            "file": "minecraft:revo/emoji/feliz.png",
             "ascent": 9,
             "height": 9,
             "chars": ["㓻"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:emoji/f.png",
+            "file": "minecraft:revo/emoji/f.png",
             "ascent": 9,
             "height": 9,
             "chars": ["㓺"]
         },
 		{
             "type": "bitmap",
-            "file": "minecraft:emoji/clown.png",
+            "file": "minecraft:revo/emoji/clown.png",
             "ascent": 9,
             "height": 9,
             "chars": ["㓸"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:emoji/sunglasses.png",
+            "file": "minecraft:revo/emoji/sunglasses.png",
             "ascent": 9,
             "height": 9,
             "chars": ["㓷"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:emoji/emerald.png",
+            "file": "minecraft:revo/emoji/emerald.png",
             "ascent": 9,
             "height": 9,
             "chars": ["㓶"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:emoji/tops/cash.png",
+            "file": "minecraft:revo/emoji/tops/cash.png",
             "ascent": 7,
             "height": 7,
             "chars": ["⛃"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:emoji/tops/online.png",
+            "file": "minecraft:revo/emoji/tops/online.png",
             "ascent": 7,
             "height": 7,
             "chars": ["☕"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:emoji/tops/mcmmo.png",
+            "file": "minecraft:revo/emoji/tops/mcmmo.png",
             "ascent": 7,
             "height": 7,
             "chars": ["⚒"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:emoji/tops/destemido.png",
+            "file": "minecraft:revo/emoji/tops/destemido.png",
             "ascent": 7,
             "height": 7,
             "chars": ["☬"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:emoji/tops/votos.png",
+            "file": "minecraft:revo/emoji/tops/votos.png",
             "ascent": 7,
             "height": 7,
             "chars": ["۞"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:emoji/tops/mito.png",
+            "file": "minecraft:revo/emoji/tops/mito.png",
             "ascent": 7,
             "height": 7,
             "chars": ["🗡"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:emoji/tops/caveira.png",
+            "file": "minecraft:revo/emoji/tops/caveira.png",
             "ascent": 8,
             "height": 8,
             "chars": ["☠"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:emoji/revo.png",
+            "file": "minecraft:revo/emoji/paineis/logorevo.png",
             "ascent": 9,
             "height": 9,
             "chars": ["㒁"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:emoji/heart_eyes.png",
+            "file": "minecraft:revo/emoji/heart_eyes.png",
             "ascent": 9,
             "height": 9,
             "chars": ["ਉ"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:emoji/sob.png",
+            "file": "minecraft:revo/emoji/sob.png",
             "ascent": 9,
             "height": 9,
             "chars": ["ਙ"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:emoji/angry.png",
+            "file": "minecraft:revo/emoji/angry.png",
             "ascent": 9,
             "height": 9,
             "chars": ["ਦ"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:emoji/pleading_face.png",
+            "file": "minecraft:revo/emoji/pleading_face.png",
             "ascent": 9,
             "height": 9,
             "chars": ["ਧ"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:emoji/like.png",
+            "file": "minecraft:revo/emoji/like.png",
             "ascent": 9,
             "height": 9,
             "chars": ["ਯ"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:emoji/rofl.png",
+            "file": "minecraft:revo/emoji/rofl.png",
             "ascent": 9,
             "height": 9,
             "chars": ["ਹ"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:emoji/paineis/logorevo.png",
+            "file": "minecraft:revo/emoji/paineis/logorevo.png",
             "ascent": 65,
             "height": 65,
             "chars": ["ɤ"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:emoji/sunglasso_bravo.png",
+            "file": "minecraft:revo/emoji/sunglasso_bravo.png",
             "ascent": 9,
             "height": 9,
             "chars": ["ਸ"]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:revo/emoji/raridade_cheia.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["✦"]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:revo/emoji/raridade_vazia.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["✧"]
         }
     ]
 }
