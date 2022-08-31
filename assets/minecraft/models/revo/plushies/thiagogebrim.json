@@ -1,0 +1,6 @@
+{
+	"parent": "revo/plushies/normal",
+	"textures": {
+		"0": "revo/plushies/thiagogebrim"
+	}
+}

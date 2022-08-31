@@ -4,6 +4,10 @@
     "layer0": "minecraft:block/sunflower_front"
 	},
 	"overrides": [
-		{ "predicate": {  "custom_model_data": 300 }, "model": "revo/money"}
+		{ "predicate": {  "custom_model_data": 300 }, "model": "revo/money"},
+		{ "predicate": { "custom_model_data": 500 }, "model": "revo/plushies/nevisk" },
+		{ "predicate": { "custom_model_data": 501 }, "model": "revo/plushies/thiagogebrim" },
+		{ "predicate": { "custom_model_data": 502 }, "model": "revo/plushies/gutoh_" },
+		{ "predicate": { "custom_model_data": 503 }, "model": "revo/plushies/julgzin" }
 	]
 }
