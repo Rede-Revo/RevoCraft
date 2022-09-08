@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "3d/trofeu/tijolo",
-		"particle": "3d/trofeu/tijolo"
+		"0": "3d/trofeus/tijolo",
+		"particle": "3d/trofeus/tijolo"
 	},
 	"elements": [
 		{
