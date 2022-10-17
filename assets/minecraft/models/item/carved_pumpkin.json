@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:block/carved_pumpkin",
+  	"overrides": [
+		{ "predicate": { "custom_model_data": 1 }, "model": "revo/chapeis/chifres"},
+		{ "predicate": { "custom_model_data": 2 }, "model": "revo/chapeis/bruxa" },
+		{ "predicate": { "custom_model_data": 3 }, "model": "revo/chapeis/frank" },
+		{ "predicate": { "custom_model_data": 100 }, "model": "revo/halloween/cesta_de_doces" },
+		{ "predicate": { "custom_model_data": 101 }, "model": "revo/halloween/fantasma" }
+	]
+}

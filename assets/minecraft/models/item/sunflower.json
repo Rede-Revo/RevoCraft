@@ -12,7 +12,8 @@
 		{ "predicate": { "custom_model_data": 504 }, "model": "revo/plushies/soekd" },
 		{ "predicate": { "custom_model_data": 505 }, "model": "revo/plushies/felipesfera" },
 		{ "predicate": { "custom_model_data": 506 }, "model": "revo/plushies/beazika" },
-		{ "predicate": { "custom_model_data": 507 }, "model": "revo/plushies/srnogueira" },
-		{ "predicate": { "custom_model_data": 508 }, "model": "revo/plushies/xmattnice_" }
+		{ "predicate": { "custom_model_data": 507 }, "model": "revo/plushies/yasta" },
+		{ "predicate": { "custom_model_data": 508 }, "model": "revo/plushies/xmattnice_" },
+		{ "predicate": { "custom_model_data": 509 }, "model": "revo/plushies/isaacchan" }
 	]
 }

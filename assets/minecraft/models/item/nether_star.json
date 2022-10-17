@@ -4,6 +4,7 @@
     "layer0": "minecraft:item/nether_star"
 	},
 	"overrides": [
-		{ "predicate": {  "custom_model_data": 300 }, "model": "revo/trofeus/trofeu_liga"}
+		{ "predicate": {  "custom_model_data": 300 }, "model": "revo/trofeus/trofeu_liga"},
+		{ "predicate": {  "custom_model_data": 400 }, "model": "revo/trofeus/trofeu_cla"}
 	]
 }
