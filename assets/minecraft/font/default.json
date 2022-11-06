@@ -198,10 +198,17 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:revo/emoji/paineis/logorevo.png",
-            "ascent": 65,
+            "file": "minecraft:revo/emoji/paineis/logohorizontal.png",
+            "ascent": 63,
             "height": 65,
             "chars": ["ɤ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:revo/emoji/paineis/logohorizontal.png",
+            "ascent": 43,
+            "height": 65,
+            "chars": ["ฌ"]
         },
         {
             "type": "bitmap",
