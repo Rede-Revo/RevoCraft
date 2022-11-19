@@ -206,7 +206,7 @@
         {
             "type": "bitmap",
             "file": "minecraft:revo/emoji/paineis/logohorizontal.png",
-            "ascent": 43,
+            "ascent": 35,
             "height": 65,
             "chars": ["ฌ"]
         },
