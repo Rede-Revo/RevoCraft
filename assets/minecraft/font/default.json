@@ -230,6 +230,41 @@
             "ascent": 9,
             "height": 9,
             "chars": ["✧"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:revo/emoji/esc/esquerda1.png",
+            "ascent": 15,
+            "height": 40,
+            "chars": ["生"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:revo/emoji/esc/direita1.png",
+            "ascent": 15,
+            "height": 40,
+            "chars": ["着"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:revo/emoji/esc/esquerda2.png",
+            "ascent": 15,
+            "height": 40,
+            "chars": ["小"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:revo/emoji/esc/direita2.png",
+            "ascent": 15,
+            "height": 40,
+            "chars": ["里"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:revo/emoji/esc/escstore.png",
+            "ascent": 15,
+            "height": 60,
+            "chars": ["心"]
         }
     ]
 }
