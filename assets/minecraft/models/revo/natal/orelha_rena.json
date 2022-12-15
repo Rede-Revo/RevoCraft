@@ -98,6 +98,9 @@
 		}
 	],
 	"display": {
+		"gui": {
+			"scale": [0.65, 0.65, 0.65]
+		},
 		"head": {
 			"translation": [0, 1.5, 0]
 		}
