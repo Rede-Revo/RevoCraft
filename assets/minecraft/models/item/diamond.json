@@ -4,9 +4,11 @@
     "layer0": "minecraft:item/diamond"
 	},
 	"overrides": [
-		{ "predicate": {  "custom_model_data": 300 }, "model": "revo/meianatal"},
-		{ "predicate": {  "custom_model_data": 301 }, "model": "revo/presente1"},
-		{ "predicate": {  "custom_model_data": 302 }, "model": "revo/guirlanda"},
-		{ "predicate": {  "custom_model_data": 303 }, "model": "revo/presente2"}
+		{ "predicate": {  "custom_model_data": 300 }, "model": "revo/natal/meianatal"},
+		{ "predicate": {  "custom_model_data": 301 }, "model": "revo/natal/presente1"},
+		{ "predicate": {  "custom_model_data": 302 }, "model": "revo/natal/guirlanda"},
+		{ "predicate": {  "custom_model_data": 303 }, "model": "revo/natal/presente2"},
+		{ "predicate": {  "custom_model_data": 304 }, "model": "revo/natal/elfo"},
+		{ "predicate": {  "custom_model_data": 305 }, "model": "revo/natal/boneco_de_neve"}
 	]
 }
