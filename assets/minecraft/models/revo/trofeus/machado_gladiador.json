@@ -3,7 +3,7 @@
 	"ambientocclusion": false,
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "3d/machadogladiador"
+		"0": "3d/machado_gladiador"
 	},
 	"elements": [
 		{

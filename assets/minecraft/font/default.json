@@ -205,6 +205,13 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:revo/emoji/paineis/logosurvival.png",
+            "ascent": 63,
+            "height": 65,
+            "chars": ["؋"]
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:revo/emoji/paineis/logohorizontal.png",
             "ascent": 35,
             "height": 65,
