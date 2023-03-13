@@ -1,0 +1,14 @@
+{
+    "sources": [
+        {
+            "type": "directory",
+            "source": "3d",
+            "prefix": "3d/"
+        },
+		{
+            "type": "directory",
+            "source": "revo",
+            "prefix": "revo/"
+        }
+    ]
+}
