@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "3d/ovo_de_pascoa",
-		"particle": "3d/ovo_de_pascoa"
+		"0": "3d/pascoa/ovo_de_pascoa",
+		"particle": "3d/pascoa/ovo_de_pascoa"
 	},
 	"elements": [
 		{

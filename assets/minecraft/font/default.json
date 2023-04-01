@@ -212,6 +212,13 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:revo/emoji/paineis/logoboxpvp.png",
+            "ascent": 63,
+            "height": 65,
+            "chars": ["٥"]
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:revo/emoji/paineis/logohorizontal.png",
             "ascent": 35,
             "height": 65,
