@@ -1,281 +1,281 @@
 {
-    "providers": [
+    "providers":[
         {
-            "type": "bitmap",
-            "file": "minecraft:revo/emoji/GG.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": ["㐢"]
+            "type":"bitmap",
+            "file":"revo:font/unihan/gg.png",
+            "ascent":8,
+            "height":9,
+            "chars":["㐢"]
         },
         {
-            "type": "bitmap",
-            "file": "minecraft:revo/emoji/peposleep.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": ["㐣"]
+            "type":"bitmap",
+            "file":"revo:font/unihan/peposleep.png",
+            "ascent":8,
+            "height":9,
+            "chars":["㐣"]
         },
         {
-            "type": "bitmap",
-            "file": "minecraft:revo/emoji/paineis/logorevo.png",
+            "type":"bitmap",
+            "file":"revo:font/unihan/paineis/logorevo.png",
             "ascent": 25,
             "height": 25,
             "chars": ["㒀"]
         },
         {
-            "type": "bitmap",
-            "file": "minecraft:revo/emoji/flushed.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": ["㒙"]
+            "type":"bitmap",
+            "file":"revo:font/unihan/flushed.png",
+            "ascent":8,
+            "height":9,
+            "chars":["㒙"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:revo/emoji/kekw.png",
-            "ascent": 9,
-            "height": 9,
+            "file": "revo:font/unihan/kekw.png",
+            "ascent":8,
+            "height":9,
             "chars": ["㓿"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:revo/emoji/pray.png",
-            "ascent": 9,
-            "height": 9,
+            "file": "revo:font/unihan/pray.png",
+            "ascent":8,
+            "height":9,
             "chars": ["㓾"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:revo/emoji/estrela_dourada.png",
-            "ascent": 9,
-            "height": 9,
+            "file": "revo:font/unihan/estrela_dourada.png",
+            "ascent":8,
+            "height":9,
             "chars": ["✯"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:revo/emoji/tops/eventos.png",
+            "file": "revo:font/unihan/tops/eventos.png",
             "ascent": 7,
             "height": 7,
             "chars": ["⭐"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:revo/emoji/triste.png",
-            "ascent": 9,
-            "height": 9,
+            "file": "revo:font/unihan/triste.png",
+            "ascent":8,
+            "height":9,
             "chars": ["㓼"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:revo/emoji/feliz.png",
-            "ascent": 9,
-            "height": 9,
+            "file": "revo:font/unihan/feliz.png",
+            "ascent":8,
+            "height":9,
             "chars": ["㓻"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:revo/emoji/f.png",
-            "ascent": 9,
-            "height": 9,
+            "file": "revo:font/unihan/f.png",
+            "ascent":8,
+            "height":9,
             "chars": ["㓺"]
         },
 		{
             "type": "bitmap",
-            "file": "minecraft:revo/emoji/clown.png",
-            "ascent": 9,
-            "height": 9,
+            "file": "revo:font/unihan/clown.png",
+            "ascent":8,
+            "height":9,
             "chars": ["㓸"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:revo/emoji/sunglasses.png",
-            "ascent": 9,
-            "height": 9,
+            "file": "revo:font/unihan/sunglasses.png",
+            "ascent":8,
+            "height":9,
             "chars": ["㓷"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:revo/emoji/emerald.png",
-            "ascent": 9,
-            "height": 9,
+            "file": "revo:font/unihan/emerald.png",
+            "ascent":8,
+            "height":9,
             "chars": ["㓶"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:revo/emoji/tops/cash.png",
+            "file": "revo:font/unihan/tops/cash.png",
             "ascent": 7,
             "height": 7,
             "chars": ["⛃"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:revo/emoji/tops/online.png",
+            "file": "revo:font/unihan/tops/online.png",
             "ascent": 7,
             "height": 7,
             "chars": ["☕"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:revo/emoji/tops/mcmmo.png",
+            "file": "revo:font/unihan/tops/mcmmo.png",
             "ascent": 7,
             "height": 7,
             "chars": ["⚒"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:revo/emoji/tops/destemido.png",
+            "file": "revo:font/unihan/tops/destemido.png",
             "ascent": 7,
             "height": 7,
             "chars": ["☬"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:revo/emoji/tops/votos.png",
+            "file": "revo:font/unihan/tops/votos.png",
             "ascent": 7,
             "height": 7,
             "chars": ["۞"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:revo/emoji/tops/mito.png",
+            "file": "revo:font/unihan/tops/mito.png",
             "ascent": 7,
             "height": 7,
             "chars": ["🗡"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:revo/emoji/tops/caveira.png",
+            "file": "revo:font/unihan/tops/caveira.png",
             "ascent": 8,
             "height": 8,
             "chars": ["☠"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:revo/emoji/paineis/logorevo.png",
-            "ascent": 9,
-            "height": 9,
+            "file": "revo:font/unihan/paineis/logorevo.png",
+            "ascent":8,
+            "height":9,
             "chars": ["㒁"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:revo/emoji/heart_eyes.png",
-            "ascent": 9,
-            "height": 9,
+            "file": "revo:font/unihan/heart_eyes.png",
+            "ascent":8,
+            "height":9,
             "chars": ["ਉ"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:revo/emoji/sob.png",
-            "ascent": 9,
-            "height": 9,
+            "file": "revo:font/unihan/sob.png",
+            "ascent":8,
+            "height":9,
             "chars": ["ਙ"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:revo/emoji/angry.png",
-            "ascent": 9,
-            "height": 9,
+            "file": "revo:font/unihan/angry.png",
+            "ascent":8,
+            "height":9,
             "chars": ["ਦ"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:revo/emoji/pleading_face.png",
-            "ascent": 9,
-            "height": 9,
+            "file": "revo:font/unihan/pleading_face.png",
+            "ascent":8,
+            "height":9,
             "chars": ["ਧ"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:revo/emoji/like.png",
-            "ascent": 9,
-            "height": 9,
+            "file": "revo:font/unihan/like.png",
+            "ascent":8,
+            "height":9,
             "chars": ["ਯ"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:revo/emoji/rofl.png",
-            "ascent": 9,
-            "height": 9,
+            "file": "revo:font/unihan/rofl.png",
+            "ascent":8,
+            "height":9,
             "chars": ["ਹ"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:revo/emoji/paineis/logohorizontal.png",
+            "file": "revo:font/unihan/paineis/logohorizontal.png",
             "ascent": 63,
             "height": 65,
             "chars": ["ɤ"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:revo/emoji/paineis/logosurvival.png",
+            "file": "revo:font/unihan/paineis/logosurvival.png",
             "ascent": 63,
             "height": 65,
             "chars": ["؋"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:revo/emoji/paineis/logoboxpvp.png",
+            "file": "revo:font/unihan/paineis/logoboxpvp.png",
             "ascent": 63,
             "height": 65,
             "chars": ["٥"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:revo/emoji/paineis/logohorizontal.png",
+            "file": "revo:font/unihan/paineis/logohorizontal.png",
             "ascent": 35,
             "height": 65,
             "chars": ["ฌ"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:revo/emoji/sunglasso_bravo.png",
-            "ascent": 9,
-            "height": 9,
+            "file": "revo:font/unihan/sunglasso_bravo.png",
+            "ascent":8,
+            "height":9,
             "chars": ["ਸ"]
         },
 		{
             "type": "bitmap",
-            "file": "minecraft:revo/emoji/raridade_cheia.png",
-            "ascent": 9,
-            "height": 9,
+            "file": "revo:font/unihan/raridade_cheia.png",
+            "ascent":8,
+            "height":9,
             "chars": ["✦"]
         },
 		{
             "type": "bitmap",
-            "file": "minecraft:revo/emoji/raridade_vazia.png",
-            "ascent": 9,
-            "height": 9,
+            "file": "revo:font/unihan/raridade_vazia.png",
+            "ascent":8,
+            "height":9,
             "chars": ["✧"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:revo/emoji/esc/esquerda1.png",
+            "file": "revo:font/unihan/esc/esquerda1.png",
             "ascent": 15,
             "height": 40,
             "chars": ["生"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:revo/emoji/esc/direita1.png",
+            "file": "revo:font/unihan/esc/direita1.png",
             "ascent": 15,
             "height": 40,
             "chars": ["着"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:revo/emoji/esc/esquerda2.png",
+            "file": "revo:font/unihan/esc/esquerda2.png",
             "ascent": 15,
             "height": 40,
             "chars": ["小"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:revo/emoji/esc/direita2.png",
+            "file": "revo:font/unihan/esc/direita2.png",
             "ascent": 15,
             "height": 40,
             "chars": ["里"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:revo/emoji/esc/escstore.png",
+            "file": "revo:font/unihan/esc/escstore.png",
             "ascent": 15,
             "height": 60,
             "chars": ["心"]
@@ -612,6 +612,6 @@
       "height": 128,
       "ascent": 35,
       "type": "bitmap"
-    }
+        }
     ]
 }
