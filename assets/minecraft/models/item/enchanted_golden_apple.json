@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/enchanted_golden_apple"
+  },
+	"overrides": [
+		{ "predicate": {  "custom_model_data": 100 }, "model": "revo/tradicoes/maca_do_amor"}
+	]
+}

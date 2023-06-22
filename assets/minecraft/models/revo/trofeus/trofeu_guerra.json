@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"RevoLogo": "3d/trofeus/R",
+		"RevoLogo": "3d/trofeus/r",
 		"particle": "3d/trofeus/dourado",
 		"gold_block": "3d/trofeus/dourado",
 		"wool_colored_brown": "3d/trofeus/marrom"

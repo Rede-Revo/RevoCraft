@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:item/template_banner",
+	"overrides": [
+		{ "predicate": {  "custom_model_data": 300 }, "model": "revo/bandeiras_lgbtqia/ally_flag"},
+		{ "predicate": {  "custom_model_data": 301 }, "model": "revo/bandeiras_lgbtqia/asexual_flag"},
+		{ "predicate": {  "custom_model_data": 302 }, "model": "revo/bandeiras_lgbtqia/bi_flag"},
+		{ "predicate": {  "custom_model_data": 303 }, "model": "revo/bandeiras_lgbtqia/enby_flag"},
+		{ "predicate": {  "custom_model_data": 304 }, "model": "revo/bandeiras_lgbtqia/gay_flag"},
+		{ "predicate": {  "custom_model_data": 305 }, "model": "revo/bandeiras_lgbtqia/intersex_flag"},
+		{ "predicate": {  "custom_model_data": 306 }, "model": "revo/bandeiras_lgbtqia/lesbian_flag"},
+		{ "predicate": {  "custom_model_data": 307 }, "model": "revo/bandeiras_lgbtqia/pan_flag"},
+		{ "predicate": {  "custom_model_data": 308 }, "model": "revo/bandeiras_lgbtqia/pride_flag"},
+		{ "predicate": {  "custom_model_data": 309 }, "model": "revo/bandeiras_lgbtqia/trans_flag"}
+	]
+}
