@@ -7,6 +7,7 @@
 		{ "predicate": { "custom_model_data": 4 }, "model": "revo/natal/orelha_rena" },
 		{ "predicate": { "custom_model_data": 5 }, "model": "revo/chapeis/revonildo" },
 		{ "predicate": { "custom_model_data": 6 }, "model": "revo/pascoa/orelha_de_coelho" },
+		{ "predicate": { "custom_model_data": 7 }, "model": "revo/tradicoes/gorro_saci" },
 		{ "predicate": { "custom_model_data": 100 }, "model": "revo/halloween/cesta_de_doces" },
 		{ "predicate": { "custom_model_data": 101 }, "model": "revo/halloween/fantasma" }
 	]
