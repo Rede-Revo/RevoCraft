@@ -1,6 +1,7 @@
 {
     "parent": "block/command_block",
 	"overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "revo/trofeus/trofeu_guerra"}
+		{"predicate": {"custom_model_data": 1 }, "model": "revo/trofeus/trofeu_guerra_build"},
+		{"predicate": {"custom_model_data": 2 }, "model": "revo/trofeus/trofeu_guerra"}
 	]
 }
