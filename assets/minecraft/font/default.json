@@ -1,6 +1,55 @@
 {
     "providers":[
         {
+            "type": "bitmap",
+            "file": "revo:font/unihan/megafone.png",
+            "ascent":10,
+            "height":10,
+            "chars": ["☏"]
+        },
+        {
+            "type":"bitmap",
+            "file":"revo:font/unihan/mundos/vermelho.png",
+            "ascent":7,
+            "height":7,
+            "chars":["🔥"]
+        },
+        {
+            "type":"bitmap",
+            "file":"revo:font/unihan/mundos/azul.png",
+            "ascent":7,
+            "height":7,
+            "chars":["❄"]
+        },
+        {
+            "type":"bitmap",
+            "file":"revo:font/unihan/mundos/spawn.png",
+            "ascent":7,
+            "height":7,
+            "chars":["⚡"]
+        },
+        {
+            "type":"bitmap",
+            "file":"revo:font/unihan/mundos/recursos.png",
+            "ascent":7,
+            "height":7,
+            "chars":["⛏"]
+        },
+        {
+            "type":"bitmap",
+            "file":"revo:font/unihan/mundos/verde.png",
+            "ascent":7,
+            "height":7,
+            "chars":["☘"]
+        },
+        {
+            "type":"bitmap",
+            "file":"revo:font/unihan/mundos/eventos.png",
+            "ascent":7,
+            "height":7,
+            "chars":["🛡"]
+        },
+        {
             "type":"bitmap",
             "file":"revo:font/unihan/gg.png",
             "ascent":8,
