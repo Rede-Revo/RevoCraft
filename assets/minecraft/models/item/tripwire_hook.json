@@ -10,6 +10,7 @@
 		{ "predicate": {  "custom_model_data": 4 }, "model": "revo/chaves/lendaria"},
 		{ "predicate": {  "custom_model_data": 5 }, "model": "revo/chaves/natalina"},
 		{ "predicate": {  "custom_model_data": 6 }, "model": "revo/chaves/pascoa"},
-		{ "predicate": {  "custom_model_data": 7 }, "model": "revo/tradicoes/chave_tradicoes" }
+		{ "predicate": {  "custom_model_data": 7 }, "model": "revo/chaves/tradicoes" },
+		{ "predicate": {  "custom_model_data": 8 }, "model": "revo/chaves/halloween" }
 	]
 }

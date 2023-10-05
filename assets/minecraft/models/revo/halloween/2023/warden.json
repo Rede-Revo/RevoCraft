@@ -1,0 +1,72 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "3d/halloween/2023/warden",
+		"particle": "3d/halloween/2023/warden"
+	},
+	"elements": [
+		{
+			"from": [16, 0, 0],
+			"to": [32, 13, 0],
+			"faces": {
+				"north": {"uv": [0, 0, 8, 6.5], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 6.5], "texture": "#0"},
+				"south": {"uv": [0, 6.5, 8, 13], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 6.5], "texture": "#0"},
+				"up": {"uv": [8, 0, 0, 0], "texture": "#0"},
+				"down": {"uv": [8, 0, 0, 0], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-13, 0, 0],
+			"to": [3, 13, 0],
+			"faces": {
+				"north": {"uv": [0, 6.5, 8, 13], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 6.5], "texture": "#0"},
+				"south": {"uv": [0, 0, 8, 6.5], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 6.5], "texture": "#0"},
+				"up": {"uv": [8, 0, 0, 0], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [8, 0, 0, 0], "rotation": 180, "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [-7, 4, 8.25],
+			"scale": [0.76, 0.76, 0.75]
+		},
+		"thirdperson_lefthand": {
+			"translation": [-7, 4, 8.25],
+			"scale": [0.76, 0.76, 0.75]
+		},
+		"firstperson_righthand": {
+			"translation": [3.5, 0.25, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [3.5, 0.25, 0]
+		},
+		"ground": {
+			"translation": [0.75, 3, 2.5],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"translation": [-0.75, 2, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"head": {
+			"translation": [-1.25, 8.5, 6]
+		},
+		"fixed": {
+			"translation": [0, 3.75, 6]
+		}
+	},
+	"groups": [
+		{
+			"name": "Tendril",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1]
+		}
+	]
+}
