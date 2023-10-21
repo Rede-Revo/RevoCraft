@@ -10,7 +10,7 @@
 		{ "predicate": { "custom_model_data": 7 }, "model": "revo/tradicoes/gorro_saci" },
 		{ "predicate": { "custom_model_data": 100 }, "model": "revo/halloween/cesta_de_doces" },
 		{ "predicate": { "custom_model_data": 101 }, "model": "revo/halloween/fantasma" },
-		{ "predicate": { "custom_model_data": 102 }, "model": "revo/halloween/2023/sonicrings" },
+		{ "predicate": { "custom_model_data": 102 }, "model": "revo/halloween/2023/fantasma" },
 		{ "predicate": { "custom_model_data": 103 }, "model": "revo/halloween/2023/horns" },
 		{ "predicate": { "custom_model_data": 104 }, "model": "revo/halloween/2023/pumpkin_mask" },
 		{ "predicate": { "custom_model_data": 105 }, "model": "revo/halloween/2023/warden" }
