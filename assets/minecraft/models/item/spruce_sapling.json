@@ -6,6 +6,7 @@
   
  "overrides": [
  {"predicate": {"custom_model_data":130}, "model": "revo/natal/miniarvore"},
- {"predicate": {"custom_model_data":131}, "model": "revo/natal/arvorenatal"}
+ {"predicate": {"custom_model_data":131}, "model": "revo/natal/arvorenatal"},
+ {"predicate": {"custom_model_data":132}, "model": "revo/natal/miniarvore2"}
  ]
 }
