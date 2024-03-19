@@ -5,15 +5,15 @@
 	},
 	"overrides": [
 		{ "predicate": {  "custom_model_data": 300 }, "model": "revo/money"},
-		{ "predicate": { "custom_model_data": 500 }, "model": "revo/plushies/nevisk" },
-		{ "predicate": { "custom_model_data": 501 }, "model": "revo/plushies/thiagogebrim" },
-		{ "predicate": { "custom_model_data": 502 }, "model": "revo/plushies/manobrelson" },
-		{ "predicate": { "custom_model_data": 503 }, "model": "revo/plushies/julgzin" },
-		{ "predicate": { "custom_model_data": 504 }, "model": "revo/plushies/soekd" },
-		{ "predicate": { "custom_model_data": 505 }, "model": "revo/plushies/felipesfera" },
-		{ "predicate": { "custom_model_data": 506 }, "model": "revo/plushies/beazika" },
-		{ "predicate": { "custom_model_data": 507 }, "model": "revo/plushies/yasta" },
-		{ "predicate": { "custom_model_data": 508 }, "model": "revo/plushies/xmattnice_" },
-		{ "predicate": { "custom_model_data": 509 }, "model": "revo/plushies/isaacchan" }
+		{ "predicate": { "custom_model_data": 500 }, "model": "revo/plushies/staff1" },
+		{ "predicate": { "custom_model_data": 501 }, "model": "revo/plushies/staff2" },
+		{ "predicate": { "custom_model_data": 502 }, "model": "revo/plushies/staff3" },
+		{ "predicate": { "custom_model_data": 503 }, "model": "revo/plushies/staff4" },
+		{ "predicate": { "custom_model_data": 504 }, "model": "revo/plushies/staff5" },
+		{ "predicate": { "custom_model_data": 505 }, "model": "revo/plushies/staff6" },
+		{ "predicate": { "custom_model_data": 506 }, "model": "revo/plushies/staff7" },
+		{ "predicate": { "custom_model_data": 507 }, "model": "revo/plushies/staff8" },
+		{ "predicate": { "custom_model_data": 508 }, "model": "revo/plushies/staff9" },
+		{ "predicate": { "custom_model_data": 509 }, "model": "revo/plushies/staff10" }
 	]
 }
