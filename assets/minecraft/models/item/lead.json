@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/lead"
+	},
+	"overrides": [
+		{ "predicate": {  "custom_model_data": 1 }, "model": "revo/bughunter/lagarta_revo"},
+		{ "predicate": {  "custom_model_data": 2 }, "model": "revo/bughunter/casulo_revo"},
+		{ "predicate": {  "custom_model_data": 3 }, "model": "revo/bughunter/borboleta_revo"}
+	]
+}
