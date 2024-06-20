@@ -13,6 +13,7 @@
 		{ "predicate": { "custom_model_data": 10 }, "model": "revo/2024balao" },
 		{ "predicate": { "custom_model_data": 11 }, "model": "revo/pascoa/chapeu_de_ovos" },
 		{ "predicate": { "custom_model_data": 12 }, "model": "revo/pascoa/gorro_de_coelho" },
+		{ "predicate": { "custom_model_data": 13 }, "model": "revo/tradicoes/chapeu_caipira" },
 		{ "predicate": { "custom_model_data": 100 }, "model": "revo/halloween/cesta_de_doces" },
 		{ "predicate": { "custom_model_data": 101 }, "model": "revo/halloween/fantasma" },
 		{ "predicate": { "custom_model_data": 102 }, "model": "revo/halloween/2023/fantasma" },
