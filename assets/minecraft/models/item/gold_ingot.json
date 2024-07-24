@@ -4,6 +4,7 @@
     "layer0": "minecraft:item/gold_ingot"
 	},
 	"overrides": [
-		{ "predicate": {  "custom_model_data": 300 }, "model": "revo/trofeus/trofeu_copa"}
+		{ "predicate": {  "custom_model_data": 300 }, "model": "revo/trofeus/trofeu_copa"},
+		{ "predicate": {  "custom_model_data": 500 }, "model": "revo/medalhas/mouro"}
 	]
 }
