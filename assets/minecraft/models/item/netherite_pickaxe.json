@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/netherite_pickaxe"
+  },
+	"overrides": [
+		{ "predicate": {  "custom_model_data": 300 }, "model": "revo/halloween/2024/picaretas/pickaxe0"},
+		{ "predicate": {  "custom_model_data": 301 }, "model": "revo/halloween/2024/picaretas/pickaxe1"},
+		{ "predicate": {  "custom_model_data": 302 }, "model": "revo/halloween/2024/picaretas/pickaxe2"},
+		{ "predicate": {  "custom_model_data": 303 }, "model": "revo/halloween/2024/picaretas/pickaxe3"}
+	]
+}
