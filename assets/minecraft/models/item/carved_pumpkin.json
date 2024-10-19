@@ -20,6 +20,6 @@
 		{ "predicate": { "custom_model_data": 103 }, "model": "revo/halloween/2023/horns" },
 		{ "predicate": { "custom_model_data": 104 }, "model": "revo/halloween/2023/pumpkin_mask" },
 		{ "predicate": { "custom_model_data": 105 }, "model": "revo/halloween/2023/warden" },
-		{ "predicate": { "custom_model_data": 105 }, "model": "revo/halloween/2024/chapeu" }
+		{ "predicate": { "custom_model_data": 106 }, "model": "revo/halloween/2024/chapeu" }
 	]
 }
