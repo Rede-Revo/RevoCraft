@@ -1,0 +1,54 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/diamond"
+        },
+        "entries": [
+            {
+                "threshold": 300,
+                "model": {
+                    "type": "model",
+                    "model": "revo/natal/meianatal"
+                }
+            },
+            {
+                "threshold": 301,
+                "model": {
+                    "type": "model",
+                    "model": "revo/natal/presente1"
+                }
+            },
+            {
+                "threshold": 302,
+                "model": {
+                    "type": "model",
+                    "model": "revo/natal/guirlanda"
+                }
+            },
+            {
+                "threshold": 303,
+                "model": {
+                    "type": "model",
+                    "model": "revo/natal/presente2"
+                }
+            },
+            {
+                "threshold": 304,
+                "model": {
+                    "type": "model",
+                    "model": "revo/natal/elfo"
+                }
+            },
+            {
+                "threshold": 305,
+                "model": {
+                    "type": "model",
+                    "model": "revo/natal/boneco_de_neve"
+                }
+            }
+        ]
+    }
+}
