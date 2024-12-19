@@ -48,6 +48,13 @@
                     "type": "model",
                     "model": "revo/natal/boneco_de_neve"
                 }
+            },
+            {
+                "threshold": 306,
+                "model": {
+                    "type": "model",
+                    "model": "revo/natal/globo_de_neve"
+                }
             }
         ]
     }

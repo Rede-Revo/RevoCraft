@@ -146,6 +146,27 @@
                     "type": "model",
                     "model": "revo/halloween/2024/chapeu"
                 }
+            },
+            {
+                "threshold": 107,
+                "model": {
+                    "type": "model",
+                    "model": "revo/natal/chapeuelfo"
+                }
+            },
+            {
+                "threshold": 108,
+                "model": {
+                    "type": "model",
+                    "model": "revo/natal/chapeupresentes"
+                }
+            },
+            {
+                "threshold": 109,
+                "model": {
+                    "type": "model",
+                    "model": "revo/natal/chapeu2024"
+                }
             }
         ]
     }

@@ -1,19 +1,89 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:block/sunflower_front"
-	},
-	"overrides": [
-		{ "predicate": {  "custom_model_data": 300 }, "model": "revo/money"},
-		{ "predicate": { "custom_model_data": 500 }, "model": "revo/plushies/staff1" },
-		{ "predicate": { "custom_model_data": 501 }, "model": "revo/plushies/staff2" },
-		{ "predicate": { "custom_model_data": 502 }, "model": "revo/plushies/staff3" },
-		{ "predicate": { "custom_model_data": 503 }, "model": "revo/plushies/staff4" },
-		{ "predicate": { "custom_model_data": 504 }, "model": "revo/plushies/staff5" },
-		{ "predicate": { "custom_model_data": 506 }, "model": "revo/plushies/staff7" },
-		{ "predicate": { "custom_model_data": 507 }, "model": "revo/plushies/staff8" },
-		{ "predicate": { "custom_model_data": 508 }, "model": "revo/plushies/staff9" },
-		{ "predicate": { "custom_model_data": 510 }, "model": "revo/plushies/staff11" },
-		{ "predicate": { "custom_model_data": 511 }, "model": "revo/plushies/staff12" }
-	]
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/minecraft:block/sunflower_front"
+        },
+        "entries": [
+            {
+                "threshold": 300,
+                "model": {
+                    "type": "model",
+                    "model": "revo/money"
+                }
+            },
+            {
+                "threshold": 500,
+                "model": {
+                    "type": "model",
+                    "model": "revo/plushies/staff1"
+                }
+            },
+            {
+                "threshold": 501,
+                "model": {
+                    "type": "model",
+                    "model": "revo/plushies/staff2"
+                }
+            },
+            {
+                "threshold": 502,
+                "model": {
+                    "type": "model",
+                    "model": "revo/plushies/staff3"
+                }
+            },
+            {
+                "threshold": 503,
+                "model": {
+                    "type": "model",
+                    "model": "revo/plushies/staff4"
+                }
+            },
+            {
+                "threshold": 504,
+                "model": {
+                    "type": "model",
+                    "model": "revo/plushies/staff5"
+                }
+            },
+            {
+                "threshold": 506,
+                "model": {
+                    "type": "model",
+                    "model": "revo/plushies/staff7"
+                }
+            },
+            {
+                "threshold": 507,
+                "model": {
+                    "type": "model",
+                    "model": "revo/plushies/staff8"
+                }
+            },
+            {
+                "threshold": 508,
+                "model": {
+                    "type": "model",
+                    "model": "revo/plushies/staff9"
+                }
+            },
+            {
+                "threshold": 510,
+                "model": {
+                    "type": "model",
+                    "model": "revo/plushies/staff11"
+                }
+            },
+            {
+                "threshold": 511,
+                "model": {
+                    "type": "model",
+                    "model": "revo/plushies/staff12"
+                }
+            }
+        ]
+    }
 }

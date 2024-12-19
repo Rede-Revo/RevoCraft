@@ -90,6 +90,13 @@
                     "type": "model",
                     "model": "revo/plushies/staff12"
                 }
+            },
+			            {
+                "threshold": 512,
+                "model": {
+                    "type": "model",
+                    "model": "revo/plushies/staff13"
+                }
             }
         ]
     }
