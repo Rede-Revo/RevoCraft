@@ -74,7 +74,7 @@
                 "threshold": 10,
                 "model": {
                     "type": "model",
-                    "model": "revo/2024balao"
+                    "model": "revo/anonovo/2024balao"
                 }
             },
             {
@@ -96,6 +96,13 @@
                 "model": {
                     "type": "model",
                     "model": "revo/tradicoes/chapeu_caipira"
+                }
+            },
+			            {
+                "threshold": 14,
+                "model": {
+                    "type": "model",
+                    "model": "revo/anonovo/2025balao"
                 }
             },
             {
