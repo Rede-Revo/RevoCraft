@@ -1,5 +1,5 @@
-# Revo Packs
-Resources Packs da Rede Revo!
+# RevoCraft
+Resource Packs da Rede Revo!
 
 # CRÉDITOS
 Obrigado a todos que contribuiram para fazer a resource pack do Rede Revo!
