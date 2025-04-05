@@ -12,8 +12,5 @@ Diversas pessoas contribuem com a criação da nossa resource packs, então nada
 ## giovanna2005lb
 * [Designer da Rede Revo](https://rederevo.com)
 
-## Gouchnox
-* [Unique Spawn Eggs](https://www.planetminecraft.com/texture-pack/1-13-1-16-unique-spawn-eggs/)
-
 ### Contribuintes inativos:
 PetroS3 ([Designer da Rede Revo](https://rederevo.com)), TazerManof ([Designer da Rede Revo](https://rederevo.com))
