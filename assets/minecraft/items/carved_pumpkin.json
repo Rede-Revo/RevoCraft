@@ -105,6 +105,13 @@
                     "model": "revo/anonovo/2025balao"
                 }
             },
+			            {
+                "threshold": 15,
+                "model": {
+                    "type": "model",
+                    "model": "revo/pascoa/2025/chapeu"
+                }
+            },
             {
                 "threshold": 100,
                 "model": {

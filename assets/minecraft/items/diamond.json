@@ -55,6 +55,13 @@
                     "type": "model",
                     "model": "revo/natal/globo_de_neve"
                 }
+            },
+			{
+                "threshold": 307,
+                "model": {
+                    "type": "model",
+                    "model": "revo/pascoa/2025/enfeite"
+                }
             }
         ]
     }
