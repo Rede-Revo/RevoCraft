@@ -98,18 +98,32 @@
                     "model": "revo/tradicoes/chapeu_caipira"
                 }
             },
-			            {
+			{
                 "threshold": 14,
                 "model": {
                     "type": "model",
                     "model": "revo/anonovo/2025balao"
                 }
             },
-			            {
+			{
                 "threshold": 15,
                 "model": {
                     "type": "model",
                     "model": "revo/pascoa/2025/chapeu"
+                }
+            },
+			{
+                "threshold": 16,
+                "model": {
+                    "type": "model",
+                    "model": "revo/tradicoes/2025/chapeu"
+                }
+            },
+            {
+                "threshold": 17,
+                "model": {
+                    "type": "model",
+                    "model": "revo/chapeu_niver"
                 }
             },
             {
